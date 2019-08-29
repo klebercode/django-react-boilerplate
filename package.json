@@ -1,8 +1,8 @@
 {
-  "name": "{{project_name}}-frontend",
+  "name": "djreact-frontend",
   "version": "0.0.1",
   "private": true,
-  "description": "{{project_name}} frontend.",
+  "description": "djreac frontend.",
   "main": "index.js",
   "prettier": "eslint-config-vinta/prettier",
   "scripts": {
