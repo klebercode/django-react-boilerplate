@@ -1,6 +1,6 @@
 {
-  "name": "{{project_name}}",
-  "description": "{{project_name|title}} Heroku app.",
+  "name": "djreac",
+  "description": "DJREAC Heroku app.",
   "env": {
     "ALLOWED_HOSTS": {
       "description": "Django ALLOWED_HOSTS setting, e.g.: .appname.herokuapp.com"
